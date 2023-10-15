@@ -20,7 +20,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/a-platform-for-designers/a-platform-for-designers-frontend.git
+git clone https://github.com/darvinnn/tiny-blog.git
 
 # Установить зависимости
 npm install
