@@ -22,6 +22,9 @@
 # Клонировать репозиторий
 git clone https://github.com/darvinnn/tiny-blog.git
 
+# Перейти в папку с проектом
+cd tiny-blog
+
 # Установить зависимости
 npm install
 
